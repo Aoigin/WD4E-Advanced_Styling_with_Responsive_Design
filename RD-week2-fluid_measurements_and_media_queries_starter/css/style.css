@@ -1,13 +1,13 @@
 main {
-	width: 90%;
+	width: 95%;
 	margin: 0 auto;
     border: 3px solid black;
 	}
 .column {
-    width:25%;
+    width:30%;
     display: inline-block;
-	margin-left:10px;
-    border: 1px dashed black;
+	float: left
+	margin-left:2%
 } 
 
 html, body {
